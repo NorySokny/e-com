@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
           "providers": [
-            "YourVendor\\PaymentManager\\EComServiceProvider"
+            "Norysokny\\ECom\\EComServiceProvider"
           ]
         }
     },
