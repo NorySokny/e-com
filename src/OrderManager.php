@@ -9,4 +9,8 @@ class OrderManager {
     public function getOrders() {
         echo "Orders";
     }
+
+    public function getLineItems(int $orderId) {
+        echo "LineItems";
+    }
 }
