@@ -21,9 +21,9 @@
     ],
     "extra": {
         "laravel": {
-            "providers": [
-                "Norysokny\\ECom\\EComServiceProvider"
-            ]
+          "providers": [
+            "YourVendor\\PaymentManager\\EComServiceProvider"
+          ]
         }
     },
     "minimum-stability": "stable"
