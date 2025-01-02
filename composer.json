@@ -19,5 +19,12 @@
             "name": "Nory sokny"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Norysokny\\ECom\\EComServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "stable"
 }
